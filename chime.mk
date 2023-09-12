@@ -180,8 +180,13 @@ PRODUCT_PACKAGES += \
     gnss@2.0-xtra-daemon.policy \
     gnss@2.0-xtwifi-client.policy \
     gnss@2.0-xtwifi-inet-agent.policy \
+    apdr.conf \
     gps.conf \
     flp.conf \
+    izat.conf \
+    lowi.conf \
+    sap.conf \
+    xtwifi.conf \
     libbatching \
     libgeofencing \
     libgnss \
